@@ -1,4 +1,3 @@
-layout_spectrum: 0.4698564396239817
 typography_spectrum: 0.38369350670836866
 color:
   brandStrength: 0.9202526847366244
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.4698564396239817
 name: Sportschool 0184
 title: SPORTEN IS COOL
+description: Bewegen is beleven

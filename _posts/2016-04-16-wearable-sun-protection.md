@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T10:29:46.756Z'
+datePublished: '2016-08-07T10:57:32.769Z'
 sourcePath: _posts/2016-04-16-wearable-sun-protection.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,24 +18,19 @@ keywords:
   - jumbled
 related: []
 author: []
-dateModified: '2016-08-07T10:29:46.202Z'
-title: Wearable Sun Protection
+via: {}
+dateModified: '2016-08-07T10:57:32.327Z'
+title: ''
 app_links: []
-publisher:
-  url: 'http://www.coolhunting.com'
-  name: Cool Hunting
-  favicon: 'http://assets.coolhunting.com/favicon.ico'
-  domain: www.coolhunting.com
-description: >-
-  There's no faster way to throw shade on a warm weather vacation (or the first
-  few hot days of spring) than with sunburn. It takes only 15 minutes of direct
-  sunlight exposure for skin damage to begin occurring, so protection is a must.
+publisher: {}
+description: Budoclub Tryitout heeft ook voor tuimelaars lessen.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Wearable Sun Protection</h1><p>There's no faster way to throw shade on a warm weather vacation (or the first few hot days of spring) than with sunburn. It takes only 15 minutes of direct sunlight exposure for skin damage to begin occurring, so protection is a must.</p><img src="http://assets.coolhunting.com/coolhunting/2016/03/17/large_UV_protection_clothing_hero.jpg" /></article>
+![Budoclub Tryitout heeft ook voor tuimelaars lessen.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e4dca25-f7aa-4552-be43-3419e2982e60.jpg)
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02b678fdc35ac511ae64c114def378f383b690e1.jpg" /><h1>Wearable Sun Protection</h1><p>There's no faster way to throw shade on a warm weather vacation (or the first few hot days of spring) than with sunburn. It takes only 15 minutes of direct sunlight exposure for skin damage to begin occurring, so protection is a must.</p></article>

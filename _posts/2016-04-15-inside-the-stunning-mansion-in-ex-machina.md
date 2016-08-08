@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T10:29:46.748Z'
+datePublished: '2016-08-08T14:34:14.286Z'
 sourcePath: _posts/2016-04-15-inside-the-stunning-mansion-in-ex-machina.md
 inFeed: true
 isBasedOnUrl: 'http://www.vanityfair.com/hollywood/2015/04/ex-machina-location'
@@ -17,29 +17,30 @@ keywords:
   - ava
 related: []
 author:
-  - name: Katey Rich
-    url: 'http://www.vanityfair.com/contributor/katey-rich'
+  - name: Michael Walters
+    url: 'http://www.tryitout.nl/'
     avatar: {}
-dateModified: '2016-08-07T10:29:45.933Z'
-title: Inside the Stunning Mansion in Ex Machina
+via: {}
+dateModified: '2016-08-08T14:34:13.879Z'
+title: Sportschool 0184
 app_links: []
 publisher:
-  url: 'http://www.vanityfair.com'
-  name: Vanity Fair
+  url: 'http://www.tryitout.nl'
+  name: Budoclub Tryitout
   favicon: 'http://www.vanityfair.com/favicon.ico'
   domain: www.vanityfair.com
 description: >-
-  There are many stunning, otherworldly sights in Ex Machina, the
-  science-fiction film directed by Alex Garland that features a robot so
-  lifelike she's played by actress Alicia Vikander. But the most breathtaking
-  sight of all may be the 100 percent real, available-for-a-night's-stay
-  location where the film is set: the Juvet Landscape Hotel in Norway.
+  Sportschool 0184 is de gezelligste sportschool van Hardinxveld-Giessendam en
+  omgeving, gevestigd in de wijk Boven-Hardinxveld. De ongedwongen sfeer,
+  afwisselende groepslessen, intensieve begeleiding en koffie, thee etc. maken
+  Sportschool 0184 gezellig en laagdrempelig. Kortom de ideale plek in
+  Hardinxveld voor zelfverdediging en groepslessen voor sporters van alle
+  leeftijden en niveaus.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Inside the Stunning Mansion in Ex Machina</h1><p>There are many stunning, otherworldly sights in Ex Machina, the science-fiction film directed by Alex Garland that features a robot so lifelike she's played by actress Alicia Vikander. But the most breathtaking sight of all may be the 100 percent real, available-for-a-night's-stay location where the film is set: the Juvet Landscape Hotel in Norway.</p><img src="http://media.vanityfair.com/photos/553922f843ab7eb66f6a3342/master/w_900,c_limit/ex-machina-design-4.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/057970d9-0c1a-44ad-968e-075a7b638d27.jpg)

@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T10:29:46.743Z'
+datePublished: '2016-08-08T14:53:33.148Z'
 sourcePath: >-
   _posts/2016-04-16-food-and-beer-pre-order-or-food-and-cookery-or-phaidon-store.md
 inFeed: true
@@ -18,12 +18,13 @@ keywords:
   - noma
 related: []
 author: []
-dateModified: '2016-08-07T10:29:46.116Z'
-title: Food & Beer (Pre-order) | Food & Cookery | Phaidon Store
+via: {}
+dateModified: '2016-08-08T14:53:32.713Z'
+title: Kick and Fun
 app_links: []
 publisher:
   url: 'http://www.phaidon.com'
-  name: Phaidon
+  name: Michael Walters
   favicon: 'http://www.phaidon.com/favicon.ico'
   domain: www.phaidon.com
 description: >-
@@ -33,10 +34,9 @@ description: >-
   of wine in fine dining.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Food &amp; Beer (Pre-order) | Food &amp; Cookery | Phaidon Store</h1><p>The debut book by Danish gypsy brewer Jeppe Jarnit-Bjergsø of the bar Tørst, and Canadian chef Daniel Burns of the Michelin-starred restaurant Luksus-both in a shared space in Greenpoint, Brooklyn where they elevate beer to the level of wine in fine dining.</p><img src="http://www.phaidon.com/resource/9780714871059-620-new1.jpg" /></article>
+![Kick and fun](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55541bab-eb57-4aee-acf3-171208d73bbc.jpg)

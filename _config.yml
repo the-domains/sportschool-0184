@@ -11,6 +11,10 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
 layout_spectrum: 0.4698564396239817
+author:
+  name: Michael Walters
+  email: budo@tryitout.nl
+  url: www.tryitout.nl
 name: Sportschool 0184
 title: SPORTEN IS COOL
 description: Bewegen is beleven

@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T16:10:10.603Z'
+datePublished: '2016-08-11T15:24:06.346Z'
 sourcePath: _posts/2016-04-16-wearable-sun-protection.md
 inFeed: true
 isBasedOnUrl: >-
@@ -19,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-07T16:10:10.223Z'
+dateModified: '2016-08-11T15:24:05.961Z'
 title: ''
 app_links: []
 publisher: {}
